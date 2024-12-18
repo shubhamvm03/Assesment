@@ -72,26 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-src/
-│
-├── components/
-│   ├── Navbar/
-│   │   ├── Navbar.js        # Navbar component
-│   │   └── Navbar.css       # Styling for Navbar
-│   ├── HeroSection/
-│   │   ├── HeroSection.js   # Hero section component
-│   │   └── HeroSection.css  # Styling for Hero section
-│   ├── JobListing/
-│   │   ├── JobListing.js    # Job listings component
-│   │   └── JobListing.css   # Styling for Job listings
-│   ├── JobCard/
-│   │   ├── JobCard.js       # Individual job card component
-│   │   └── JobCard.css      # Styling for job card
-│   └── RemoteJobs/
-│       ├── RemoteJobs.js    # Remote jobs listing component
-│       └── RemoteJobs.css   # Styling for Remote Jobs
-│
-└── App.js                   # Main app component that renders all pages
+
 
 
 
